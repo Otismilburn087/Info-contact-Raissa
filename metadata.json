@@ -1,0 +1,6 @@
+{
+  "name": "Mes Contacts - Raïssa Sabe",
+  "description": "Karatra nomerika sy rohy fifandraisana ho an'i Raïssa, Sekreteran'ny Minisitry ny Atitany sy ny Fitsinjaram-pahefana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
